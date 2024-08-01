@@ -1,4 +1,3 @@
-```markdown
 # iCalculator
 
 iCalculator is a basic calculator web application built using HTML, CSS, and JavaScript. It provides basic arithmetic operations and a user-friendly interface for simple calculations.
@@ -32,7 +31,7 @@ iCalculator is designed to offer a straightforward and easy-to-use calculator fo
    ```
 2. Navigate to the project directory:
    ```bash
-   cd icalculator
+   cd i-calculator
    ```
 
 ## Usage
@@ -43,6 +42,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 This project is licensed under the MIT License.
-```
-
-You can copy and paste this into the README.md file for your iCalculator GitHub repository.
